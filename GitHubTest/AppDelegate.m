@@ -17,7 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     //哈实打实的
-    NSLog(@"start");
+    NSLog(@"stbmbmnart");
     return YES;
 }
 
